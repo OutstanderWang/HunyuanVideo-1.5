@@ -196,7 +196,7 @@ export T2V_REWRITE_MODEL_NAME="<your_model_name>"
 export I2V_REWRITE_BASE_URL="<your_vllm_server_base_url>"
 export I2V_REWRITE_MODEL_NAME="<your_model_name>"
 
-PROMPT="A close-up shot captures a scene on a polished, light-colored granite kitchen counter, illuminated by soft natural light from an unseen window. Initially, the frame focuses on a tall, clear glass filled with golden, translucent apple juice standing next to a single, shiny red apple with a green leaf still attached to its stem. The camera moves horizontally to the right. As the shot progresses, a white ceramic plate smoothly enters the frame, revealing a fresh arrangement of about seven or eight more apples, a mix of vibrant reds and greens, piled neatly upon it. A shallow depth of field keeps the focus sharply on the fruit and glass, while the kitchen backsplash in the background remains softly blurred. The scene is in a realistic style."
+PROMPT='A girl holding a paper with words "Hello, world!"'
 
 IMAGE_PATH=./data/reference_image.png # Optional, 'none' or <image path>
 SEED=1
