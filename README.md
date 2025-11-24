@@ -41,7 +41,7 @@ HunyuanVideo-1.5 is a video generation model that delivers top-tier quality with
 </p>
 
 ## 🔥🔥🔥 News
-* 🚀 Nov 24, 2025: We now support cache inference, achieving approximately 2x speedup! Pull the latest code to try it.
+* 🚀 Nov 24, 2025: We now support cache inference, achieving approximately 2x speedup! Pull the latest code to try it. 🔥🔥🔥🆕 
 * 👋 Nov 20, 2025: We release the inference code and model weights of HunyuanVideo-1.5.
 
 
